@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Euritales, mas pode me chamar de Tales! 👋
-### Sou estudate do curso de Análise e Desenvolvimento de Sistemas, aspirante a front-end, e grande Rpgista!
+### Sou estudate do curso de Análise e Desenvolvimento de Sistemas, aspirante a front-end, e grande RPGista!
 - 🔭 Foco em Desenvolvimento Front-End
 - 🌱 Estudando Laravel, Python e React
 
