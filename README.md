@@ -1,7 +1,8 @@
 ## Olá! Meu nome é Euritales, mas pode me chamar de Tales! 👋
 ### Sou estudate do curso de Análise e Desenvolvimento de Sistemas, aspirante a front-end, e grande RPGista!
 - 🔭 Foco em Desenvolvimento Front-End
-- 🌱 Estudando Python 
+- 🌱 Estudando Python   <img align="center" alt="tales-python" height="10" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
 
 <div align="center">
   <a href="https://github.com/euritales">
