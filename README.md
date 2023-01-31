@@ -3,7 +3,7 @@
 <div>
   <ul>
     <li>🔭 Foco no aprendizado</li>
-    <li>🌱 Estudando Python, Java </li>
+    <li>🌱 Estudando Java, AWS</li>
   </ul>
 </div>
 
