@@ -1,9 +1,9 @@
 ## Olá! Meu nome é Euritales, mas pode me chamar de Tales! 👋
-### Sou estudate do curso de Análise e Desenvolvimento de Sistemas, aspirante a front-end, e grande RPGista!
+### Me chamo Euritales, sou estudante do curso de Análise e Desenvolvimento de Sistemas do IFBA - Campus Salvador e representante discente do curso. Sou Associate Developer da IBM e atuo como Front-end . Sou apaixonado por tecnologia e tenho um forte compromisso com o aprendizado contínuo, para aprimorar minhas habilidades e contribuir de forma significativa para os projetos e as pessoas com as quais trabalho. 
+Utilizo da tecnologia para mostrar que o conhecimento é capaz de mudar a vida das pessoas.
 <div>
   <ul>
     <li>🔭 Foco no aprendizado</li>
-    <li>🌱 Estudando Java, AWS</li>
   </ul>
 </div>
 
